@@ -3,3 +3,5 @@ requests
 matplotlib
 pandas
 biopython
+scipy
+numpy
